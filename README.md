@@ -1,25 +1,25 @@
-# EchoSoul 🔒 (In Development)
-
-> *“A recommender engine for the inner self.”*
-
-EchoSoul is a private emotional recommender project currently under active development by [@biditdas18](https://github.com/biditdas18).  
-It captures the soul’s emotional resonance and recommends music, memories, and meaning — all in harmony with who you truly are.
+<p align="center">
+  <img src="assets/essence-logo.png" width="320" alt="Essence Logo">
+</p>
 
 ---
 
-### 🔒 Current Status
+### _"There are emotions even music can't explain — but Essence tries to."_
 
-This project is being incubated privately for now, with a planned public launch later in 2025.
+**Essence** is a minimalist, emotion-driven music companion designed to understand not just what you hear, but what you feel.
 
-You can track my commit activity [here](https://github.com/biditdas18) as I build EchoSoul in stealth mode.
+It doesn't chase trends.  
+It doesn't predict playlists.  
+It simply listens — to your words, your silence, your soul.
 
----
-
-### 💡 Vision
-
-EchoSoul is not just another music engine. It's a **mirror for your emotional world** — built on the idea that recommendations should connect with how you *feel*, not just what you've clicked.
+> A memory. A mood. A moment. Let Essence guide you there.
 
 ---
 
-Stay tuned for more.  
-✨
+This is an experimental personal project in progress.  
+More details will be revealed when it’s ready to be felt.
+
+---
+
+> _Built with heart. Shaped by silence._
+
